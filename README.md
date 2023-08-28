@@ -1,4 +1,16 @@
+# Movie-List App
+movies-list app conatining data of movies from TMDB database
+
+## Demo
+  <b>Link:<b/> https://movie-app-by-sudhanshumishra.netlify.app/#
+  <p>
+  <img src="./Readme_resource/Image1.png" width="800" >
+  <img src="./Readme_resource/Image2.png" width="800" >
+</p>
+
+
 # Getting Started with Create React App
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
